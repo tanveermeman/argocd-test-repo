@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: tanveermeman/nginx:1.19.10.alpine
+        image: tanveermeman/nginx
         ports:
         - containerPort: 80
